@@ -28,31 +28,31 @@ const app = {
      songs :[
         {
             nameSong: 'Daoko',
-            picture: "/assets/img/picture1.jpg",
-            music: "/assets/music/music1.mp3",
+            picture: "./assets/img/picture1.jpg",
+            music: "./assets/music/music1.mp3",
     
     
     
         },
         {
             nameSong: "We dont't talk any more.",
-            picture: "/assets/img/picture2.jpg",
-            music: "/assets/music/music2.mp3",
+            picture: "./assets/img/picture2.jpg",
+            music: "./assets/music/music2.mp3",
         },
         {
             nameSong: 'Phải chăng em đã yêu anh.',
-            picture: "/assets/img/picture3.jpg",
-            music: "/assets/music/music3.mp3",
+            picture: "./assets/img/picture3.jpg",
+            music: "./assets/music/music3.mp3",
         },
         {
             nameSong: 'Girl like you.',
-            picture: "/assets/img/picture4.jpg",
-            music: "/assets/music/music4.mp3",
+            picture: "./assets/img/picture4.jpg",
+            music: "./assets/music/music4.mp3",
         },
         {
             nameSong: 'Chrismas snow.',
-            picture: "/assets/img/picture5.jpg",
-            music: "/assets/music/music5.mp3",
+            picture: "./assets/img/picture5.jpg",
+            music: "./assets/music/music5.mp3",
         }
     ],
    

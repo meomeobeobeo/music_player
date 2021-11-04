@@ -1,5 +1,4 @@
 
-
 const querry = document.querySelector.bind(document)
 const  querrys= document.querySelectorAll.bind(document)
 const app2={
